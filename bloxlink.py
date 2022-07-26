@@ -1,8 +1,7 @@
 '''
-Creds to DYL4N#0552 for coding this. 
+Creds to Chance#1111 for coding this. 
 Removing these credits will result in a copyright claim
 
-https://discord.gg/5hpFZwMu22
 
 '''
 
